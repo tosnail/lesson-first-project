@@ -8,7 +8,7 @@
 <link rel='stylesheet' href='/resources/list/style.css'>
 
 </head>
-
+<!-- 변경사항입니다 asdfasdf-->
 <body>
 	<!-- header --> <%@ include file="includes/header.jsp"%>
 
